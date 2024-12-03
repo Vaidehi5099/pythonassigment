@@ -56,11 +56,6 @@ Shows CO2 emissions trends over time for different countries.
 └── README.md             
 ```
 
-## Example Output
-
-![Example Bar Chart](https://via.placeholder.com/600x400?text=Bar+Chart)
-![Example Line Chart](https://via.placeholder.com/600x400?text=Line+Chart)
-
 ## Future Enhancements
 
 - Add sector and gas filters.
